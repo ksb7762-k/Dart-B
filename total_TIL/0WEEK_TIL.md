@@ -74,6 +74,6 @@ BigQuery : Google Cloud의 OLAP + Data Warehouse
 
 3. 컬럼의 의미는 무엇인가? 
 
-![0주차 수강 인증](/수강%20인증%20사진%20모음%20/0주자%20sql%20인증.png)
+![0주차 수강 인증](/image/0WEEK.png)
 
 
