@@ -119,4 +119,4 @@ HAVING COUNT(id) >= 10
 ORDER BY COUNT(id) DESC;
 
 
-![alt text](image.png)
+![1주차수강인증](/image/1WEEK.png)
