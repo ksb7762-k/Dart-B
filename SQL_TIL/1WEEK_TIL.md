@@ -119,4 +119,4 @@ HAVING COUNT(id) >= 10
 ORDER BY COUNT(id) DESC;
 
 
-![1주차수강인증](/image/1WEEK.png)
+![1주차수강인증](/image_SQL/1WEEK.png)
