@@ -21,10 +21,10 @@
 
 
 ![](/image_SQL/4-1.png)
-![](/image_SQL/4-2.png)
-![](/image_SQL/4-3.png)
-![](/image_SQL/4-4.png)
-![](/image_SQL/4-5.png)
+![](/image_SQL/4-2.png)  
+![](/image_SQL/4-3.png)  
+![](/image_SQL/4-4.png)  
+![](/image_SQL/4-5.png)  
 ![](/image_SQL/4-6.png)
 
 
@@ -55,7 +55,7 @@
 
 회사의 데이터들은 대부분 시간과 관련된 데이터가 존재  & TIMESTAMP <=> DATETIME 변환  
 
-TIMESTAMP와 DATETIME 비교 
+
 ![](/image_SQL/4-9.png)
 
 ![](/image_SQL/4-10.png)
